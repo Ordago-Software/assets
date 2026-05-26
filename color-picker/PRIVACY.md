@@ -32,7 +32,7 @@ We do **not** collect, store, transmit or process any of the following:
 - Screen content or pixel data (color sampling happens locally; nothing is transmitted)
 - Telemetry, crash reports or usage analytics
 - IP addresses, device identifiers or browser data
-- Location data
+- Location data 
 - Marketing preferences
 
 ## 3. Data sources and sharing with third parties
