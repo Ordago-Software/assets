@@ -2,7 +2,7 @@
 
 **Last updated:** 2026-05-26
 
-These Terms of Service ("Terms") form a binding agreement between you ("you", "the user") and Oliver García Robleda, doing business as **Ordago Software** ("we", "us", "our"), regarding your use of the ColorPicker desktop application and any updates or related materials (collectively, "the App").
+These Terms of Service ("Terms") form a binding agreement between you ("you", "the user") and Oliver García Robleda, doing business as **Ordago Software** ("we", "us", "our"), regarding your use of the Color Picker desktop application and any updates or related materials (collectively, "the App").
 
 By installing, accessing or using the App you confirm that you have read, understood and agreed to be bound by these Terms. If you do not agree, do not install or use the App.
 
