@@ -6,7 +6,7 @@ This Privacy Policy explains how ColorPicker ("the App", "we", "our") handles in
 
 ## 1. Introduction and contact
 
-ColorPicker is a desktop application developed by Oliver García Robleda. The App runs locally on your device. We do not operate any backend server, do not maintain user accounts, and do not transmit your personal data to us.
+Color Picker is a desktop application developed by Oliver García Robleda. The App runs locally on your device. We do not operate any backend server, do not maintain user accounts, and do not transmit your personal data to us.
 
 For any privacy-related question, please open an issue on the project's public repository or contact the developer at **ordagosoftware.info@gmail.com**.
 
